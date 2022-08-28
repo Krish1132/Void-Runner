@@ -1,6 +1,6 @@
 # Void-Runner
 
-Steps to play:
+Controls to play:
 
 <ul>
 <li><strong>ArrowUp</strong> to jump</li>
